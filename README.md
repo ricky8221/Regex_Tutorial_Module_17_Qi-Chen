@@ -5,9 +5,6 @@
 * I WANT a tutorial explaining a specific regex
 * SO THAT I can understand the search pattern the regex defines
 
-## License
-MIT<br>
-
 ## Acceptance Criteria
 * GIVEN a regex tutorial
 * WHEN I open the tutorial
@@ -18,3 +15,6 @@ MIT<br>
 * THEN I find a detailed explanation of what a specific component of the regex does
 * WHEN I reach the end of the tutorial
 * THEN I find a section about the author and a link to the author’s GitHub profile
+
+## License
+MIT<br>
