@@ -26,8 +26,8 @@ Briefly summarize the regex you will be describing and what you will explain. In
 * ^ -- Matches at the start of the string the regex pattern is applied to.	
 * $ -- Matches at the end of the string the regex pattern is applied to.
 ### Quantifiers
-* * -- matches a string that has ab followed by zero or more character
-* + -- matches a string that has ab followed by one or more character
+* (*) -- matches a string that has ab followed by zero or more character
+* (+) -- matches a string that has ab followed by one or more character
 * ? -- matches a string that has ab followed by zero or one character
 * {n} -- matches a string that has ab followed by n character
 * {x,y} -- matches a string that has ab followed by x up to y character
